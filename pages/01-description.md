@@ -1,3 +1,12 @@
+---
+date: 2022-09-01 2:00:00
+title: Description
+published: True
+tags:
+  - vimconf
+
+---
+
 Switching to Vim opened a whole new world to me for interacting with a computer
 and for getting things done. Before I adopted Vim I used GUIs for everything
 because I thought that's how it had to be done... Notes in OneNote, code using

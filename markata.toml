@@ -33,7 +33,8 @@ hooks = [
    "markata.plugins.publish_source",
    "markata.plugins.prevnext",
    "markata.plugins.service_worker",
-    "default"
+    "default",
+    "markata_slides"
 ]
 
 # plugins to disable
@@ -81,6 +82,8 @@ icon = "icon.png"
 [markata.nav]
 'Home'='/'
 'All Posts'='/archive'
+'Vimconf'='/vimconf'
+'slides'='/slides/slide-0/'
 
 [markata.prevnext]
 # strategy can be 'first' or 'all'
@@ -226,4 +229,8 @@ sort="date"
 # creates a feed at /draft
 filter="date>today or not post.get('published', False)"
 sort="date"
+
+[markata.feeds.vimconf]
+filter="'vimconf' in post.get('tags', [])"
+sort="title"
 
