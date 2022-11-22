@@ -3,7 +3,7 @@ date: 2022-09-01 4:00:00
 title: Notes
 published: True
 tags:
-  - vimconf
+  - neovimconf
 
 ---
 # Outline

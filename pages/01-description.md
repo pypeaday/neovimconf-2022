@@ -3,7 +3,7 @@ date: 2022-09-01 2:00:00
 title: Description
 published: True
 tags:
-  - vimconf
+  - neovimconf
 
 ---
 

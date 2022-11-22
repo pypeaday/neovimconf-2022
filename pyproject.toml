@@ -3,9 +3,9 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "vim_conf_2022"
+name = "neovimconf"
 
-description = "VimConf 2022 material"
+description = "NeovimConf 2022 material"
 
 readme = "README.md"
 requires-python = ">=3.7"
@@ -13,7 +13,7 @@ license = "MIT"
 
 
 authors = [
-  { name = "Nicholas Payne", email = "vimconf2022@pype.dev" },
+  { name = "Nicholas Payne", email = "neovimconf2022@pype.dev" },
 ]
 
 
@@ -21,7 +21,7 @@ dependencies = ['markata~=0.5.0.dev0', 'markata-slides', 'markdown-it-py[plugins
 dynamic = ["version"]
 
 [tool.hatch.version]
-path = "vim_conf_2022/__about__.py"
+path = "neovimconf/__about__.py"
 
 [tool.hatch.envs.default]
 dependencies = [

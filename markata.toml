@@ -5,7 +5,7 @@
 # | |  | | (_| | |  |   < (_| | || (_| || || (_) | | | | | | |
 # |_|  |_|\__,_|_|  |_|\_\__,_|\__\__,_(_)__\___/|_| |_| |_|_|
 #
-#                                           https://pypeaday.github.io/vimconf-2022
+#                                           https://pypeaday.github.io/neovimconf-2022
 
 [markata]
 # bump site version to bust GitHub actions cache
@@ -44,19 +44,19 @@ disabled_hooks = [
 ]
 
 ## Site Config
-url = "https://pypeaday.github.io/vimconf-2022"
-description = "VimConf 2022 material"
-title = "Vim Conf 2022"
-rss_description = "VimConf 2022 material"
+url = "https://pypeaday.github.io/neovimconf-2022"
+description = "NeovimConf 2022 material"
+title = "NeoimConf 2022"
+rss_description = "NeovimConf 2022 material"
 author_name = "Nicholas Payne"
-author_email = "vimconf2022@pype.dev"
+author_email = "neovimconf2022@pype.dev"
 
 ## PWA config
-site_name = "Vim Conf 2022"
+site_name = "NeovimConf 2022"
 theme_color = "#322D39"
 background_color = "#B73CF6"
-start_url = "/vimconf-2022"
-short_name = "Vim Conf 2022"
+start_url = "/neovimconf-2022"
+short_name = "NeovimConf 2022"
 display = "minimal-ui"
 icon = "icon.png"
 
@@ -82,8 +82,8 @@ icon = "icon.png"
 [markata.nav]
 'Home'='/'
 'All Posts'='/archive'
-'Vimconf'='/vimconf'
-'slides'='/slides/slide-0/'
+'Neovim Conf'='/neovimconf'
+'Slides'='/slides/slide-0/'
 
 [markata.prevnext]
 # strategy can be 'first' or 'all'
@@ -192,7 +192,7 @@ content = "Vim Conf 2022"
 
 [[markata.head.meta]]
 name = "og:author_email"
-content = "vimconf2022@pype.dev"
+content = "neovimconf2022@pype.dev"
 
 
 [[markata.head.meta]]
@@ -230,7 +230,7 @@ sort="date"
 filter="date>today or not post.get('published', False)"
 sort="date"
 
-[markata.feeds.vimconf]
-filter="'vimconf' in post.get('tags', [])"
+[markata.feeds.neovimconf]
+filter="'neovimconf' in post.get('tags', [])"
 sort="title"
 

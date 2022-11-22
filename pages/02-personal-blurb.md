@@ -3,7 +3,7 @@ date: 2022-09-01 3:00:00
 title: Personal
 published: True
 tags:
-  - vimconf
+  - neovimconf
 
 ---
 I am primarily an amateur Python developer using Neovim and Google to solve
