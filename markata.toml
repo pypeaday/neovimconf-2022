@@ -65,13 +65,16 @@ icon = "icon.png"
 # post_template = "pages/templates/post_template.html"
 
 ## Color Theme
-# color_bg = '#1f2022'
 # color_bg_code = '#1f2022'
-# color_text = '#eefbfe'
+# overlay_brightness = '.85'
+color_accent = "#83dcc8cc"
+color_bg = '#1f2022'
+color_link = "#64a1dd"
+color_text = '#d8ebe6'
+
 # color_link = '#fb30c4' 
 # color_accent = '#e1bd00c9'
 # overlay_brightness = '.85'
-
 # color_bg_light = '#eefbfe'
 # color_bg_code_light = '#eefbfe'
 # color_text_light = '#1f2022'
