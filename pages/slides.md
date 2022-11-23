@@ -128,21 +128,21 @@ bring some hardware experience to the analytics space.
     * My material is safer - it's all backed up in git (or is getting there) either on GitHub or in my homelab
     * Distribution, if requried - say for sharing small group notes, is automatic with GH pages now
 
-## Intro 01
+## Intro 0 - Personal
 
 !!! note "Personal"
 
     * Husband and father
-    * Hobbies/Life
+    * Hobbies/Life/Interests
         * Biblical theology
         * Privacy-advocate conspiracy-theorist
         * Homelabbing
-    * Continuously learning
+    * Learning/Education
         * FEM courses
         * BibleProject and other theology outlets
         * Blogging/TILs
 
-## Intro 02
+## Intro 2 - Professional
 
 !!! note "Professional"
 
@@ -153,7 +153,7 @@ bring some hardware experience to the analytics space.
     * _Coach_ team members on basic-intermediate Python coding
     * Teach outside work through church and small groups
 
-## Problem 1 - Notes 
+## Problem 1 - Notes
 
 <!-- * Notes (church, courses, teaching, etc.) -->
 !!! note "Notes (church, courses, teaching, etc.)"
@@ -166,7 +166,7 @@ bring some hardware experience to the analytics space.
     * TiddlyWiki
     * LaTex
 
-## Problem 2 - Distribution 
+## Problem 2 - Distribution
 <!-- * Distribution -->
 !!! warning "Distribution"
 
@@ -190,6 +190,52 @@ bring some hardware experience to the analytics space.
 
     * TexWorks
 
-##
+## Problems - Summary
 
+* Same computer/software required on any machine
+* Different backup strategies/mechanisms
+* Vendor lock-in from several angles
+* Windows 🤢
+
+## 
+
+!!! success "Enter Neovim"
+
+    * Fast... like really fast
+    * Opens doors for CLI tools
+    * Forced education
+        * python setup
+        * tex setup
+
+## Breakdown
+
+!!! note "Notes"
+
+    * Markdown
+
+!!! note "Distribution"
+
+    * Public: Markata -> GH Pages/Cloudflare
+    * Private: Markata -> Self-hosted
+    * Slides: Markata or Lookatme
+
+!!! note "Code"
+
+    * Vim setup exactly how I want (or getting there)
+    * Tmux usage for swapping between many projects every day
+    * CLI tools readily available
+        * In the terminal
+        * In Vim with plugins/settings
+
+## TL;DR
+
+__(Neo)vim actually changed my life by making me faster, more competent, and keeping me organized__
+
+## Credit
+
+[ThePrimeagean]()
+[Jess Archer]()
+[Waylon Walker]()
+
+## Dummy end
 ...
