@@ -7,7 +7,15 @@ tags:
 
 ---
 
-# Vim Conf 2022 Pypeaday
+## 
+
+!!! vim-credit "Philosophy of Vim"
+
+    A: Nicholas Payne
+
+    d: December 2022
+
+    C: Neovimconf 2022
 
 ## Intro 0 - Personal
 
@@ -38,10 +46,13 @@ tags:
 
 !!! vim-credit "Agenda"
 
-    1. My set of "problems"
-    2. Philosophy behind those problems
-    3. Vim to the rescue
-    4. Credits
+    1 My set of "problems"
+
+    2 Philosophy behind those problems
+
+    3 Vim to the rescue
+
+    4 Credits
 
 ## Problem 1 - Notes
 
