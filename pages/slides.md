@@ -229,13 +229,16 @@ bring some hardware experience to the analytics space.
 
 ## TL;DR
 
-__(Neo)vim actually changed my life by making me faster, more competent, and keeping me organized__
+>I'm on a journey to get faster, be more competent, and to say better organized
+
+>__(Neo)vim actually changed my life and I'm thankful for that
+
 
 ## Credit
 
-[ThePrimeagean]()
-[Jess Archer]()
-[Waylon Walker]()
+* [ThePrimeagean](https://twitter.com/ThePrimeagen)
+* [Jess Archer](https://twitter.com/jessarchercodes)
+* [Waylon Walker](https://twitter.com/_waylonwalker)
 
 ## Dummy end
 ...
