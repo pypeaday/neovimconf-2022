@@ -34,6 +34,15 @@ tags:
     * _Coach_ team members on basic-intermediate Python coding
     * Teach outside work through church and small groups
 
+## 
+
+!!! vim-credit "Agenda"
+
+    1. My set of "problems"
+    2. Philosophy behind those problems
+    3. Vim to the rescue
+    4. Credits
+
 ## Problem 1 - Notes
 
 <!-- * Notes (church, courses, teaching, etc.) -->
@@ -83,25 +92,53 @@ tags:
 
     Windows 🤢
 
+## Philosophy
+
+> Workflows have tools
+
+> Tools are GUIs
+
+> Click button = run code
+
 ## 
 
 !!! success "Enter Neovim"
 
+    * Literally changed how I think about interacting with a computer
     * Fast... like really fast
     * Opens doors for CLI tools
     * Forced education
         * python setup
         * tex setup
 
+
+<!-- Notes: -->
+<!-- 0. A computer no longer was just Windows or Mac... I moved into Linux around -->
+<!--    the same time and began to conceptually understand what Windows offered, and -->
+<!--    how I could get a more tailored experience of the only things I actually -->
+<!--    want, out of a Linux environment -->
+<!-- 1. Moving around in Vim is incredibly fast - using the mouse hurts my shoulder now -->
+<!-- 2. Being in the terminal makes CLI tools natural (Waylon's talk) -->
+<!-- 3. NOT using canned solutions, like VS C***, forced me to learn more about my -->
+<!--    development workflow, understand the tools I use, configure them how I want, -->
+<!--    and because I've done that I can now better coach others around me whether -->
+<!--    they use vim or not -->
+
+
+
 ## Breakdown
 
 !!! vim-credit ""
 
-    Notes --> Everything is Markdown
+    <center>
 
-    Distribution --> Markata sites/slides (GH/Cloudflare or Self-host)
+    | Problem | Solution |
+    | --- | --- |
+    | Notes | Everything is Markdown | 
+    | Distribution | Markata sites/slides <br/> (GH/Cloudflare or Self-host) |
+    | Code | Vim customization <br /> Tmux usage <br /> CLI tools _right flipping there_ |
 
-    Code --> Vim customization, Tmux usage, CLI tools _right flipping there_
+    </center>
 
 
 ## TL;DR
