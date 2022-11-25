@@ -49,7 +49,7 @@ description = "NeovimConf 2022 material"
 title = "NeoimConf 2022"
 rss_description = "NeovimConf 2022 material"
 author_name = "Nicholas Payne"
-author_email = "neovimconf2022@pype.dev"
+author_email = "neovimconf@pype.dev"
 
 ## PWA config
 site_name = "NeovimConf 2022"
@@ -196,7 +196,7 @@ content = "Vim Conf 2022"
 
 [[markata.head.meta]]
 name = "og:author_email"
-content = "neovimconf2022@pype.dev"
+content = "neovimconf@pype.dev"
 
 
 [[markata.head.meta]]
