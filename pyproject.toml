@@ -34,5 +34,6 @@ build = "markata build"
 tui = "markata tui"
 serve = "python -m http.server 8000 --directory=markout"
 clean-build = ['clean', 'build',]
+build-serve = ['build', 'serve',]
 clean-tui = ['clean', 'build', 'tui']
 clean-serve = ['clean', 'build', 'serve']
