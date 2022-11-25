@@ -134,7 +134,7 @@ tags:
 
     | Problem | Solution |
     | --- | --- |
-    | Notes | Everything is Markdown | 
+    | Notes | Everything is git + Markdown | 
     | Distribution | Markata sites/slides <br/> (GH/Cloudflare or Self-host) |
     | Code | Vim customization <br /> Tmux usage <br /> CLI tools _right flipping there_ |
 
