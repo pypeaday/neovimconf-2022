@@ -192,10 +192,15 @@ bring some hardware experience to the analytics space.
 
 ## Problems - Summary
 
-* Same computer/software required on any machine
-* Different backup strategies/mechanisms
-* Vendor lock-in from several angles
-* Windows 🤢
+!!! note "My Woes"
+
+    Same computer/software required on any machine
+
+    Different backup strategies/mechanisms
+
+    Vendor lock-in from several angles
+
+    Windows 🤢
 
 ## 
 
@@ -209,36 +214,35 @@ bring some hardware experience to the analytics space.
 
 ## Breakdown
 
-!!! note "Notes"
+!!! vim-credit ""
 
-    * Markdown
+    Notes --> Everything is Markdown
 
-!!! note "Distribution"
+    Distribution --> Markata sites/slides (GH/Cloudflare or Self-host)
 
-    * Public: Markata -> GH Pages/Cloudflare
-    * Private: Markata -> Self-hosted
-    * Slides: Markata or Lookatme
+    Code --> Vim customization, Tmux usage, CLI tools _right flipping there_
 
-!!! note "Code"
-
-    * Vim setup exactly how I want (or getting there)
-    * Tmux usage for swapping between many projects every day
-    * CLI tools readily available
-        * In the terminal
-        * In Vim with plugins/settings
 
 ## TL;DR
 
 >I'm on a journey to get faster, be more competent, and to say better organized
-
->__(Neo)vim actually changed my life and I'm thankful for that
+>
+>*&*
+>
+>__(Neo)vim actually changed my life and I'm thankful for that__
 
 
 ## Credit
 
-* [ThePrimeagean](https://twitter.com/ThePrimeagen)
-* [Jess Archer](https://twitter.com/jessarchercodes)
-* [Waylon Walker](https://twitter.com/_waylonwalker)
+!!! vim-credit "Game Recognize Game"
+
+    [ThePrimeagean](https://twitter.com/ThePrimeagen)
+
+    [Teej](https://twitter.com/teej_dv/)
+
+    [Jess Archer](https://twitter.com/jessarchercodes)
+
+    [Waylon Walker](https://twitter.com/_waylonwalker)
 
 ## Dummy end
 ...
