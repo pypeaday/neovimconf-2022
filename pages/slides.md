@@ -31,7 +31,7 @@ tags:
         * BibleProject and other theology outlets
         * Blogging/TILs
 
-## Intro 2 - Professional
+## Intro 1 - Professional
 
 !!! note "Professional"
 
@@ -54,7 +54,7 @@ tags:
 
     4 Credits
 
-## Problem 1 - Notes
+## Problem 0 - Notes
 
 <!-- * Notes (church, courses, teaching, etc.) -->
 !!! note "Notes (church, courses, teaching, etc.)"
@@ -67,7 +67,7 @@ tags:
     * TiddlyWiki
     * LaTex
 
-## Problem 2 - Distribution
+## Problem 1 - Distribution
 <!-- * Distribution -->
 !!! warning "Distribution"
 
@@ -77,7 +77,7 @@ tags:
     * TiddlyWiki kind of works in a git repo... kind of...
     * Manually making PPTs when necessary - c-c c-v from whichever source
 
-## Problem 3 - Coding
+## Problem 2 - Coding
 <!-- * Code -->
 !!! danger "Code"
 
@@ -91,15 +91,28 @@ tags:
 
     * TexWorks
 
+## Problem 5 - Todos
+<!-- * Code -->
+!!! danger "TODOs"
+
+    * Notebooks
+    * AZDO boards
+    * No, that other notebook
+    * Texts to myself 
+    * Found the right notebook...
+
+
 ## Problems - Summary
 
 !!! note "My Woes"
 
-    Same computer/software required on any machine
+    Same computer (or software required on any machine)
 
     Different backup strategies/mechanisms
 
     Vendor lock-in from several angles
+
+    Disorganization
 
     Windows 🤢
 
@@ -148,6 +161,7 @@ tags:
     | Notes | Everything is git + Markdown | 
     | Distribution | Markata sites/slides <br/> (GH/Cloudflare or Self-host) |
     | Code | Vim customization <br /> Tmux usage <br /> CLI tools _right flipping there_ |
+    | Todos | Markata-todoui <br /> Kanboard (collaboration) |
 
     </center>
 
@@ -165,13 +179,13 @@ tags:
 
 !!! vim-credit "Game Recognize Game"
 
-    [ThePrimeagean](https://twitter.com/ThePrimeagen)
+    [ThePrimeagean](https://twitter.com/ThePrimeagen)  (Excitement)
 
-    [Teej](https://twitter.com/teej_dv/)
+    [Teej](https://twitter.com/teej_dv/)  (Provision)
 
-    [Jess Archer](https://twitter.com/jessarchercodes)
+    [Jess Archer](https://twitter.com/jessarchercodes)  (Organization)
 
-    [Waylon Walker](https://twitter.com/_waylonwalker)
+    [Waylon Walker](https://twitter.com/_waylonwalker)  (Coach)
 
 ## Dummy end
 ...
