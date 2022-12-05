@@ -319,6 +319,19 @@
     border-radius: 20px;
   }
 
+  .admonition.centered-list {
+    text-align: left;
+    margin: 0 auto;
+    background-color: transparent;
+    <!-- background-color: rgba(64,64,64,0.5); -->
+    max-width: 60%
+  }
+
+  .centered-list .ul {
+      text-align: left;
+  }
+
+
   .admonition.vim-credit {
     color: #9700ff;
     background-color: #220039;
@@ -329,6 +342,11 @@
   .vim-credit .admonition-title {
     font-weight: bold;
     text-align: center;
+  }
+
+  .vim-credit .ul {
+      text-align: center;
+      list-style-position: inside;
   }
 
   .admonition.note {

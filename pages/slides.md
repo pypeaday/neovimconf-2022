@@ -177,15 +177,15 @@ tags:
 
 ## Credit
 
+<!-- !!! note "Game Recognize Game" -->
 !!! vim-credit "Game Recognize Game"
 
-    [ThePrimeagean](https://twitter.com/ThePrimeagen)  (Excitement)
+    !!! centered-list ""
 
-    [Teej](https://twitter.com/teej_dv/)  (Provision)
-
-    [Jess Archer](https://twitter.com/jessarchercodes)  (Organization)
-
-    [Waylon Walker](https://twitter.com/_waylonwalker)  (Coach)
+        * [ThePrimeagean](https://twitter.com/ThePrimeagen)  (Excitement)
+        * [Teej](https://twitter.com/teej_dv/)  (Provision)
+        * [Jess Archer](https://twitter.com/jessarchercodes)  (Organization)
+        * [Waylon Walker](https://twitter.com/_waylonwalker)  (Coach)
 
 ## Dummy end
 ...
