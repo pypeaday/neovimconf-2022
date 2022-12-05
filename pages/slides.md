@@ -46,13 +46,10 @@ tags:
 
 !!! vim-credit "Agenda"
 
-    1 My set of "problems"
-
-    2 Philosophy behind those problems
-
-    3 Vim to the rescue
-
-    4 Credits
+    1. My set of "problems"
+    2. Philosophy behind those problems
+    3. Vim to the rescue
+    4. Credits
 
 ## Problem 0 - Notes
 
@@ -106,15 +103,11 @@ tags:
 
 !!! note "My Woes"
 
-    Same computer (or software required on any machine)
-
-    Different backup strategies/mechanisms
-
-    Vendor lock-in from several angles
-
-    Disorganization
-
-    Windows 🤢
+    * Same computer (or software required on any machine)
+    * Different backup strategies/mechanisms
+    * Vendor lock-in from several angles
+    * Disorganization
+    * Windows 🤢
 
 ## Philosophy
 
