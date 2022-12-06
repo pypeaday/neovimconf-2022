@@ -45,6 +45,7 @@ disabled_hooks = [
 
 ## Site Config
 url = "https://pypeaday.github.io/"
+path_prefix="neovimconf-2022"
 description = "NeovimConf 2022 material"
 title = "NeoimConf 2022"
 rss_description = "NeovimConf 2022 material"
