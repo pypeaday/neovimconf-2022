@@ -44,12 +44,14 @@ tags:
 
 ## 
 
-!!! vim-credit "Agenda"
+!!! vim-credit "Agenda 2"
 
-    1. My set of "problems"
-    2. Philosophy behind those problems
-    3. Vim to the rescue
-    4. Credits
+    !!! centered-list ""
+
+        * My set of "problems"
+        * Philosophy behind those problems
+        * Vim to the rescue
+        * Credits
 
 ## Problem 0 - Notes
 
@@ -178,7 +180,7 @@ tags:
         * [ThePrimeagean](https://twitter.com/ThePrimeagen)  (Excitement)
         * [Teej](https://twitter.com/teej_dv/)  (Provision)
         * [Jess Archer](https://twitter.com/jessarchercodes)  (Organization)
-        * [Waylon Walker](https://twitter.com/_waylonwalker)  (Coach)
+        * [Waylon Walker](https://twitter.com/_waylonwalker)  (Comrade)
 
 ## Dummy end
 ...
