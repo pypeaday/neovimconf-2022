@@ -44,7 +44,7 @@ tags:
 
 ## 
 
-!!! vim-credit "Agenda 2"
+!!! vim-credit "Agenda"
 
     !!! centered-list ""
 
