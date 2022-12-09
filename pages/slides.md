@@ -113,9 +113,11 @@ tags:
 
 ## Philosophy
 
-> Workflows have tools
+> Problems are solved by tools
 
 > Tools are GUIs
+
+> Problems are solved with GUIs
 
 > Click button = run code
 
@@ -123,8 +125,8 @@ tags:
 
 !!! success "Enter Neovim"
 
-    * Literally changed how I think about interacting with a computer
-    * Fast... like really fast
+    * Human-computer interaction
+    * Extremely fast
     * Opens doors for CLI tools
     * Forced education
         * python setup
@@ -167,7 +169,7 @@ tags:
 >
 >*&*
 >
->__(Neo)vim actually changed my life and I'm thankful for that__
+>__(Neo)vim actually changed my life - Thanks__
 
 
 ## Credit
