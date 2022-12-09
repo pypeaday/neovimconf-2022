@@ -11,6 +11,8 @@
 # bump site version to bust GitHub actions cache
 version = 0
 
+lang = ""
+
 # 2 weeks in seconds
 default_cache_expire = 1209600
 
